@@ -2,7 +2,7 @@
 
 Wonder How we can you make an amazing Quiz Application using HTML CSS JS? If No, this will be the perfect repo for you.
 
-###### **Here is the link of [Live Demo]()**
+###### **Here is the link of [Live Demo](https://javascript-quiz99.netlify.app/)**
 
 
 ## Technology Stack Used
